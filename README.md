@@ -1,6 +1,6 @@
 <h2 align="center">Hello, my name is Chris Basinger and I create Android libraries.</h2>
 <p align="center">  
-If you need me to work on a project then please contact me at <b><a href="mailto:evilthreads669966@gmail.com">Gmail</a></b>.
+If you need me to work on a project then please contact me on <b><a href="https://t.me/evilthreads669966">Telegram</a></b>.
 </p>
 <p align="center">
   <a href="https://kotlinlang.org/">
