@@ -1,6 +1,6 @@
 <h2 align="center">Hello, my name is Chris Basinger and I create Android libraries.</h2>
 <p align="center">  
-Contact me on <b><a href="https://t.me/evilthreads669966">Telegram</a></b> for questions, comments, or requests.
+Contact me on <b><a href="https://t.me/evilthreads669966">Telegram</a></b> for questions, comments, and requests.
 </p>
 <p align="center">
   <a href="https://kotlinlang.org/">
